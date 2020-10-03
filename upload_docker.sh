@@ -13,4 +13,5 @@ echo "Docker ID and Image: $dockerpath"
 docker tag prediction_app hadifayed/udacity_microservices:prediction_app
 
 # Step 3:
-docker push hadifayed/udacity_microservices:tagname
+docker push hadifayed/udacity_microservices:prediction_app
+
