@@ -3,7 +3,7 @@
 ## Complete the following steps to get Docker running locally
 
 # Step 1:
-# docker build --tag=prediction_app .
+docker build --tag=prediction_app .
 
 # Step 2:
 docker image ls
